@@ -1,5 +1,3 @@
-# Example .allstar Quickstart Repository
+# .allstar Config Repository
 
-This repository can be forked into your organization as `.allstar` to quickly
-enable issue creation for all Allstar policies on all repositories with the
-default settings.
+[Allstar](https://pkg.go.dev/github.com/ossf/allstar/pkg/policies/branch#section-documentation) is a tool for managing branch protection policies across multiple repositories.
